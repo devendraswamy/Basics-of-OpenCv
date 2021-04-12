@@ -3,7 +3,7 @@ Here I post the all the basics and important codes related the OpenCV
 
 Here I can Kept all the codes from Begging to advance level of opencv  
 
-Here I mentioned deatails about Load_iamge_opencv.py
+Here I mentioned deatails about # Load_iamge_opencv.py
 
 OpenCV load image (cv2.imread)
 In the first part of this tutorial, we’ll discuss how to load an image from disk using OpenCV and the cv2.imread function.
